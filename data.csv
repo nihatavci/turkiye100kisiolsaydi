@@ -1,0 +1,27 @@
+measure,comparison,group,value
+none,none,tümü,100
+yasgrubu,none,tümü,100
+evlilik,none,tümü,100
+cinsiyet,none,tümü,100
+egitim,none,tümü,100
+cinsiyet,bir,Erkek,50
+cinsiyet,bir,Kadın,50
+yasgrubu,iki,18-32 yaş,33
+yasgrubu,iki,33-48 yaş,34
+yasgrubu,iki,49 yaş ve üstü,33
+egitim,uc,Okuryazar değil,4
+egitim,uc,İlkokul mezunu,27
+egitim,uc,Ortaokul/İlköğretim mezunu,18
+egitim,uc,Lise mezunu,32
+egitim,uc,Üniversite ve üzeri,19
+egitim,dort,Okuryazar değil,8
+egitim,dort,İlkokul mezunu,30
+egitim,dort,Ortaokul/İlköğretim mezunu,18
+egitim,dort,Lise mezunu,26
+egitim,dort,Üniversite ve üzeri,18
+evlilik,alti,Bekar,29
+evlilik,alti,Evli/Nişanlı,64
+evlilik,alti,Boşanmış/Dul,7
+evlilik,bes,Bekar,20
+evlilik,bes,Evli/Nişanlı,66
+evlilik,bes,Boşanmış/Dul,7
