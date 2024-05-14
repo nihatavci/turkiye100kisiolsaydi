@@ -19,9 +19,57 @@ egitim,dort,İlkokul mezunu,30
 egitim,dort,Ortaokul/İlköğretim mezunu,18
 egitim,dort,Lise mezunu,26
 egitim,dort,Üniversite ve üzeri,18
-evlilik,alti,Bekar,29
-evlilik,alti,Evli/Nişanlı,64
-evlilik,alti,Boşanmış/Dul,7
-evlilik,bes,Bekar,20
-evlilik,bes,Evli/Nişanlı,66
+evlilik,bes,Bekar,29
+evlilik,bes,Evli/Nişanlı,64
 evlilik,bes,Boşanmış/Dul,7
+evlilik,alti,Karşılıklı,46
+evlilik,alti,Görücü,47
+evlilik,alti,Rıza dışı,7
+neredebuyudunuz,yedi,Köy,31
+neredebuyudunuz,yedi,Kasaba ilçe,23
+neredebuyudunuz,yedi,Şehir,29
+neredebuyudunuz,yedi,Büyükşehir,17
+yasadigierlesimtipi,sekiz,Kır,7
+yasadigierlesimtipi,sekiz,Kent,40
+yasadigierlesimtipi,sekiz,Metropol,53
+gocdurumu,dokuz,Hiç göçmemiş,52
+gocdurumu,dokuz,Kendisi göçmüş,30
+gocdurumu,dokuz,Babası göçmüş,13
+gocdurumu,dokuz,Babası ve kendisi göçmüş,4
+gocdurumu,dokuz,Baba memleketine geri dönmüş,1
+evsahipligi,on,Kendi evleri (aileden kalma ev de dahil),69
+evsahipligi,on,Kira,31
+arabasahipligi,onbir,Hanede araba var,56
+arabasahipligi,onbir,Hanede araba yok,44
+etnikkimlikdagilimi,oniki,Türk,77
+etnikkimlikdagilimi,oniki,Kürt,19
+etnikkimlikdagilimi,oniki,Arap,2
+etnikkimlikdagilimi,oniki,Diğer,2
+dinmezhepdagilimi,onuc,Alevi,4
+dinmezhepdagilimi,onuc,Sünni,88
+dinmezhepdagilimi,onuc,Diğer,2
+dinmezhepdagilimi,onuc,Dini inancı yok,6
+dindarlikseviyesi,ondort,İnançsız + Ateist,7
+dindarlikseviyesi,ondort,İnançlı,33
+dindarlikseviyesi,ondort,Dindar,50
+dindarlikseviyesi,ondort,Sofu,10
+kadinlarinortunmedurumu,onbes,Örtünmüyor,41
+kadinlarinortunmedurumu,onbes,Başörtüsüyle örtünüyor,48
+kadinlarinortunmedurumu,onbes,Türbanla örtünüyor,10
+kadinlarinortunmedurumu,onbes,Çarşaf/peçe ile örtünüyor,1
+namazkilma,onalti,Düzenli namaz kılıyor,44
+namazkilma,onalti,Nadiren veya bazen namaz kılıyor,32
+namazkilma,onalti,Hiç namaz kılmamış,24
+televizyondanhaberizleme,onsekiz,TV'den haber izliyor,72
+televizyondanhaberizleme,onsekiz,TV'den haber izlemiyor,28
+internettenalisveris,onyirmi,Son 3 ayda internetten alışveriş yapmış,64
+internettenalisveris,onyirmi,Son 3 ayda internetten alışveriş yapmamış,36
+pasaportsahipligi,onyirmibir,Pasaporta sahip,14
+pasaportsahipligi,onyirmibir,Pasaporta sahip değil,86
+kitapokuma,onyirmiiki,Evet okudum,69
+kitapokuma,onyirmiiki,Hayır okumadım,31
+gazeteokuma,onyirmiuc,Gazete okuyor,25
+gazeteokuma,onyirmiuc,Gazete okumuyor,75
+hayattarzi,onyirmidort,Modern,31
+hayattarzi,onyirmidort,Geleneksel Muhafazakâr,45
+hayattarzi,onyirmidort,Dindar Muhafazakâr,24
